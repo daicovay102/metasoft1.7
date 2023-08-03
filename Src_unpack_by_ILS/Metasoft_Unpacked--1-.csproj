@@ -1,0 +1,31 @@
+<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+  <PropertyGroup>
+    <AssemblyName>Metasoft</AssemblyName>
+    <GenerateAssemblyInfo>False</GenerateAssemblyInfo>
+    <OutputType>WinExe</OutputType>
+    <UseWindowsForms>True</UseWindowsForms>
+    <TargetFramework>net48</TargetFramework>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup>
+    <LangVersion>11.0</LangVersion>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>app.ico</ApplicationIcon>
+    <RootNamespace />
+  </PropertyGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Reference Include="WebDriver" />
+    <Reference Include="xNet" />
+    <Reference Include="System.Core" />
+    <Reference Include="Newtonsoft.Json" />
+    <Reference Include="System.Web" />
+    <Reference Include="Rebex.Http" />
+    <Reference Include="CreditCardValidator" />
+    <Reference Include="System.IO.Compression.FileSystem" />
+    <Reference Include="Rebex.Common" />
+    <Reference Include="Rebex.Networking" />
+  </ItemGroup>
+</Project>
