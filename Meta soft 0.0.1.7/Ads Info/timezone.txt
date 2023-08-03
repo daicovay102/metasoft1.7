@@ -1,0 +1,149 @@
+(GMT +13:00) Auckland Time
+(GMT +12:00) Kamchatka Time
+(GMT +11:00) Sydney Time
+(GMT +11:00) Magadan Time
+(GMT +11:00) Melbourne Time
+(GMT +10:30) Broken Hill Time
+(GMT +10:00) Vladivostok Time
+(GMT +09:00) Jayapura Time
+(GMT +09:00) Tokyo Time
+(GMT +09:00) Seoul Time
+(GMT +09:00) Yakutsk Time
+(GMT +08:00) Perth Time
+(GMT +08:00) Beijing Time
+(GMT +08:00) Hong Kong Time
+(GMT +08:00) Makassar Time
+(GMT +08:00) Kuala Lumpur Time
+(GMT +08:00) Manila Time
+(GMT +08:00) Irkutsk Time
+(GMT +08:00) Singapore Time
+(GMT +08:00) Taipei Time
+(GMT +07:00) Jakarta Time
+(GMT +07:00) Krasnoyarsk Time
+(GMT +07:00) Bangkok Time
+(GMT +07:00) Ho Chi Minh Time
+(GMT +06:00) Dhaka Time
+(GMT +06:00) Omsk Time
+(GMT +05:45) Kathmandu Time
+(GMT +05:30) Kolkata Time
+(GMT +05:30) Colombo Time
+(GMT +05:00) Maldives Time
+(GMT +05:00) Karachi Time
+(GMT +05:00) Yekaterinburg Time
+(GMT +04:00) Dubai Time
+(GMT +04:00) Mauritius Time
+(GMT +04:00) Muscat Time
+(GMT +04:00) Samara Time
+(GMT +04:00) Baku Time
+(GMT +04:00) Yerevan Time
+(GMT +03:00) Bahrain Time
+(GMT +03:00) Baghdad Time
+(GMT +03:00) Nairobi Time
+(GMT +03:00) Kuwait Time
+(GMT +03:00) Qatar Time
+(GMT +03:00) Moscow Time
+(GMT +03:00) Riyadh Time
+(GMT +03:00) Istanbul Time
+(GMT +02:00) Sofia Time
+(GMT +02:00) Nicosia Time
+(GMT +02:00) Tallinn Time
+(GMT +02:00) Cairo Time
+(GMT +02:00) Helsinki Time
+(GMT +02:00) Athens Time
+(GMT +02:00) Jerusalem Time
+(GMT +02:00) Amman Time
+(GMT +02:00) Beirut Time
+(GMT +02:00) Vilnius Time
+(GMT +02:00) Riga Time
+(GMT +02:00) Gaza Time
+(GMT +02:00) Bucharest Time
+(GMT +02:00) Kaliningrad Time
+(GMT +02:00) Kiev Time
+(GMT +02:00) Johannesburg Time
+(GMT +02:00) Chisinau Time
+(GMT +01:00) Vienna Time
+(GMT +01:00) Sarajevo Time
+(GMT +01:00) Brussels Time
+(GMT +01:00) Zurich Time
+(GMT +01:00) Prague Time
+(GMT +01:00) Berlin Time
+(GMT +01:00) Copenhagen Time
+(GMT +01:00) Madrid Time
+(GMT +01:00) Paris Time
+(GMT +01:00) Zagreb Time
+(GMT +01:00) Budapest Time
+(GMT +01:00) Rome Time
+(GMT +01:00) Luxembourg Time
+(GMT +01:00) Casablanca Time
+(GMT +01:00) Skopje Time
+(GMT +01:00) Malta Time
+(GMT +01:00) Lagos Time
+(GMT +01:00) Amsterdam Time
+(GMT +01:00) Oslo Time
+(GMT +01:00) Warsaw Time
+(GMT +01:00) Belgrade Time
+(GMT +01:00) Stockholm Time
+(GMT +01:00) Ljubljana Time
+(GMT +01:00) Bratislava Time
+(GMT +01:00) Tunis Time
+(GMT +00:00) Canary Time
+(GMT +00:00) London Time
+(GMT +00:00) Accra Time
+(GMT +00:00) Dublin Time
+(GMT +00:00) Reykjavik Time
+(GMT +00:00) Lisbon Time
+(GMT +00:00) Ouagadougou Time
+(GMT -01:00) Azores Time
+(GMT -02:00) Noronha Time
+(GMT -03:00) San Luis Time
+(GMT -03:00) Buenos Aires Time
+(GMT -03:00) Salta Time
+(GMT -03:00) Belem Time
+(GMT -03:00) Sao Paulo Time
+(GMT -03:00) Santiago Time
+(GMT -03:00) Asuncion Time
+(GMT -03:00) Montevideo Time
+(GMT -03:30) St Johns Time
+(GMT -04:00) La Paz Time
+(GMT -04:00) Campo Grande Time
+(GMT -04:00) Blanc-Sablon Time
+(GMT -04:00) Halifax Time
+(GMT -04:00) Santo Domingo Time
+(GMT -04:00) Puerto Rico Time
+(GMT -04:00) Port of Spain Time
+(GMT -04:00) Caracas Time
+(GMT -05:00) Eastern Time
+(GMT -05:00) Nassau Time
+(GMT -05:00) Atikokan Time
+(GMT -05:00) Iqaluit Time
+(GMT -05:00) Toronto Time
+(GMT -05:00) Easter Island Time
+(GMT -05:00) Bogota Time
+(GMT -05:00) Guayaquil Time
+(GMT -05:00) Jamaica Time
+(GMT -05:00) Panama Time
+(GMT -05:00) Lima Time
+(GMT -05:00) Detroit Time
+(GMT -06:00) Central Time
+(GMT -06:00) Rainy River Time
+(GMT -06:00) Regina Time
+(GMT -06:00) Costa Rica Time
+(GMT -06:00) Galapagos Time
+(GMT -06:00) Guatemala Time
+(GMT -06:00) Tegucigalpa Time
+(GMT -06:00) Mexico City Time
+(GMT -06:00) Managua Time
+(GMT -06:00) El Salvador Time
+(GMT -06:00) Winnipeg Time
+(GMT -07:00) Mountain Time
+(GMT -07:00) Mountain Standard Time (Arizona)
+(GMT -07:00) Dawson Time
+(GMT -07:00) Dawson Creek Time
+(GMT -07:00) Edmonton Time
+(GMT -07:00) Hermosillo Time
+(GMT -07:00) Mazatlan Time
+(GMT -08:00) Pacific Time
+(GMT -08:00) Vancouver Time
+(GMT -08:00) Tijuana Time
+(GMT -09:00) Alaska Time
+(GMT -10:00) Hawaii Time
